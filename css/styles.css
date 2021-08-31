@@ -1,0 +1,137 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4em;
+}
+h1{
+  margin-top: 0;
+  font-size: 5rem;
+  color: #66BFBF;
+font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+}
+.header
+{
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 10px;
+  padding-bottom: 0;
+}
+.my-name
+{
+  line-height: 0.6;
+}
+.c1-img{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.c2-img{
+  position: absolute;
+  left: 380px;
+  top: 340px;
+}
+h1
+{
+  margin-top: 190px;
+}
+
+.myphoto
+{
+  width: 40%;
+}
+p{
+  color: #40514E;
+}
+hr
+{
+  border-style: dotted;
+  color: #EAF6F6;
+  width: 4%;
+  border-width: 10px;
+  border-bottom: none;
+}
+.intro
+{
+  width:40%;
+  margin: 0 auto;
+}
+.myh2
+{
+  font-size: 3rem;
+}
+.skillphoto1
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skillphoto2
+{
+  width: 25%;
+  float: right;
+  margin-right: 3px;
+}
+.myskils
+{
+
+  width: 58%;
+  margin: auto;
+}
+.mydev
+{
+  text-align: left;
+}
+.myinterest{
+  text-align: left;
+}
+.row1
+{
+  position: relative;
+  top: 40px;
+}
+.row2
+{
+  position: relative;
+  top: 40px;
+}
+.footer
+{
+  width: 50%;
+  margin: auto;
+}
+a
+{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 50px;
+}
+.btn{
+  background:#8ac4d0 ;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #000000;
+}
+.btn:hover{
+  background-color: #EAF6F6;
+}
+.footer2
+{
+  margin-top: 90px;
+  background: #66BFBF;
+  padding: 60px 0 20px;
+}
+h5{
+  margin-top: 50px;
+}
